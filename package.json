@@ -1,7 +1,7 @@
 {
   "name": "gerson",
   "version": "1.0.0",
-  "description": "",
+  "description": "All källkod för YH-kursen _TypeScript_ för klasserna YKTYP26V1/YKTYS26V1 på IT-högskolan & Medieinstitutet.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "devDependencies": {
     "typescript": "^6.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedeal/TypeScript-Gerson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gedeal/TypeScript-Gerson/issues"
+  },
+  "homepage": "https://github.com/gedeal/TypeScript-Gerson#readme"
 }
